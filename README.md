@@ -1,1 +1,1 @@
-# info-player-textdraw
+# Hungry and thirsty player information
